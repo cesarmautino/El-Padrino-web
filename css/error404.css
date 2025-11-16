@@ -1,0 +1,36 @@
+body {
+    background-image: url(../img/fondo\ A.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    background-color: #a80028;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0;
+    margin-bottom: 15px;
+    }
+h1{
+     font-family: 'Share Tech Mono', monospace;
+     color: #d6aa0d;
+     text-transform: uppercase;
+     font-size: 60px;
+     margin-bottom: 5px;
+}
+
+.img-error {
+    width: 500px;
+
+    }
+
+.boton-index {
+    padding: 12px 20px;
+    background-color: #d6aa0d;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s;
+
+   }
