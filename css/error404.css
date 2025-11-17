@@ -33,4 +33,16 @@ h1{
     font-weight: bold;
     transition: 0.2s;
 
+
+   }
+.boton-error {
+     padding: 12px 20px;
+    background-color: #d6aa0d;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s;
+
+
    }
